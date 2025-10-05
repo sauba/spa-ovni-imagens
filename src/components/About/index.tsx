@@ -23,8 +23,7 @@ export default function About() {
         className={`
             px-3
             2xl:px-8
-            text-2xl
-            xl:text-4xl
+            text-4xl
             2xl:text-6xl
             text-center
             tracking-widest
