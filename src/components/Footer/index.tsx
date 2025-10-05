@@ -21,7 +21,7 @@ export default function Footer() {
           </span>
 
           <span
-            className={`pt-8 pb-4 text-2xl text-zinc-50 tracking-widest flex-wrap`}
+            className={`pt-4 pb-4 text-2xl text-zinc-50 tracking-widest flex-wrap`}
           >
             Entre em Contato:
           </span>
